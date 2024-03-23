@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+/* segunda pantalla*/
+
+.cuerpo{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: rgba(217, 109, 168, 0.601);
+}
+
